@@ -1,0 +1,25 @@
+img{
+height: 100%;
+width: 100%;
+}
+
+audio{
+width: 100%;
+color: black;
+}
+
+.shrek{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+height: 100px;
+border-radius: 50px;
+background-color: rgb(209, 209, 209);
+}
+
+h1{
+font-size: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+
+}
